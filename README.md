@@ -28,7 +28,7 @@ Descriptive statistics provide a summary of key aspects of a dataset, making it 
 
 Inferential statistics allows researchers and analysts to draw conclusions about populations based on sample data, taking into account the inherent uncertainty involved in the process. It plays a critical role in scientific research, decision-making, and data-driven strategies
 
-The concept of meaningful information underscores the importance of quality over quantity. It emphasizes the idea that _not all information is equally valuable, and the focus should be on acquiring, processing, and utilizing information that has real significance and utility in decision making and problem-solving_
+The concept of meaningful information underscores the importance of data quality. It emphasizes the idea that _not all information is equally valuable, and the focus should be on acquiring, processing, and utilizing information that has real significance and utility in decision making and problem-solving_
 
 ```bash
 npm install
