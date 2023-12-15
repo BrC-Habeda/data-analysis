@@ -16,8 +16,13 @@ I have prepared a summary of new ways to look at data that will try and make it 
 
 ## Definition
 
-Statistics is a branch of mathematics that involves the **collection**, **analysis**, **interpretation, presentation**, and **organization** of data. It plays a crucial role in various fields, including science, business, economics, social sciences, and more. The goal of statistics is to extract meaningful information from data, make inferences, and **support decision-making processes**.
+Statistics is a branch of mathematics that involves the **collection**, **analysis**, **interpretation, presentation**, and **organization** of data. It plays a crucial role in various fields, including science, business, economics, social sciences, and more.
+The goal of statistics is to **extract meaningful information from data**, make inferences, and **support decision-making processes**.
 We are going to focus on the extraction of "meaningful" information from data, make inferences and support decision-making processes.
+
+As trivial as it may be, defining meaningful information and support decision-making is a necessary step in understanding the misconceptions we have built (for good reason) thus far.
+
+**Meaningful information** - information that _contributes to decision-making, problem-solving, or achieving specific goals_.
 
 ```bash
 npm install
