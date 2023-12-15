@@ -24,9 +24,11 @@ As trivial as it may be, defining meaningful information is a necessary step in 
 
 **Meaningful information** - information that _contributes to decision-making, problem-solving, or achieving specific goals_.
 
-The concept of meaningful information underscores the importance of quality over quantity. It emphasizes the idea that _not all information is equally valuable, and the focus should be on acquiring, processing, and utilizing information that has real significance and utility in a given context_
+Descriptive statistics provide a summary of key aspects of a dataset, making it easier to understand and interpret. However, it's important to note that ease of understanding and interpretation do not allow for the generalization of findings to a larger population; for that purpose, another type of statistics is used.
 
-Descriptive statistics provide a summary of key aspects of a dataset, making it easier to understand and interpret. However, it's important to note that ease of understanding and interpretation do not allow for the generalization of findings to a larger population; for that purpose, inferential statistics are often used.
+Inferential statistics allows researchers and analysts to draw conclusions about populations based on sample data, taking into account the inherent uncertainty involved in the process. It plays a critical role in scientific research, decision-making, and data-driven strategies
+
+The concept of meaningful information underscores the importance of quality over quantity. It emphasizes the idea that _not all information is equally valuable, and the focus should be on acquiring, processing, and utilizing information that has real significance and utility in decision making and problem-solving_
 
 ```bash
 npm install
