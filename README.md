@@ -4,19 +4,19 @@
 
 ## Description
 
-A brief description of your project goes here. Explain what the project does, its main features, and why someone might want to use it.
-
 ## Table of Contents
 
-- [Installation](#installation)
+- [Definition](#Definition)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
-## Installation
+## Definition
 
-Provide step-by-step instructions on how to install your project. Include any dependencies and commands needed.
+Statistics is a branch of mathematics that involves the collection, analysis, interpretation, presentation, and organization of data. It plays a crucial role in various fields, including science, business, economics, social sciences, and more. The goal of statistics is to extract meaningful information from data, make inferences, and support decision-making processes.
+We are going to focus on the extraction of "meaningful" information from data, make inferences and support decision-making processes.
 
 ```bash
 npm install
+```
