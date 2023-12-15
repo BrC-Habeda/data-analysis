@@ -1,1 +1,1 @@
-# A new way of looking at data and statistics.
+# A new way of looking at statistics.
