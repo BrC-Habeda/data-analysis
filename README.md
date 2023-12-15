@@ -41,8 +41,6 @@ GROUP BY students.student_id, students.name
 ORDER BY total_marks DESC;
 ```
 
-If the objective of the school is to recognize and award the top performing student in class 6, then the 👆 query provides a solution to the problem; therefore it is meaningful
+If the objective of the school is to recognize and award the student with the most marks in class 6, then the 👆 query provides a solution to the problem; therefore it is meaningful
 
-However, based on these results, we do not have sufficient evidence that the student with the most marks this year will have the same performance next year.
-
-If our problem becomes "Lets find the aptitude of the class 6 students" then these results are meaningless in that context.
+If our problem becomes "Lets find the aptitude of the class 6 students" it goes without saying that these results are NOT meaningful in that context.
