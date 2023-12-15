@@ -30,10 +30,19 @@ Inferential statistics allows researchers and analysts to draw conclusions about
 
 The concept of meaningful information underscores the importance of data quality. It emphasizes the idea that _not all information is equally valuable, and the focus should be on acquiring, processing, and utilizing information that has real significance and utility in decision making and problem-solving_
 
+Consider the following SQL query
+
 ```bash
-SELECT students.student_id, students.name, SUM(marks.marks) AS total_marks
+SELECT students.student_id, students.name, students.class, SUM(marks.marks) AS total_marks
 FROM students
 INNER JOIN marks ON students.student_id = marks.student_id
-WHERE students.year = 2023
-GROUP BY students.student_id, students.name;
+WHERE students.year = 2023 AND students.class = 6
+GROUP BY students.student_id, students.name
+ORDER BY total_marks DESC;
 ```
+
+If the objective of the school is to recognize and award the top performing student in class 6, then the 👆 query provides a solution to the problem; therefore it is meaningful
+
+However, based on these results, we do not have sufficient evidence that the student with the most marks this year will have the same performance next year.
+
+If our problem becomes "Lets find the aptitude of the class 6 students" then these results are meaningless in that context.
